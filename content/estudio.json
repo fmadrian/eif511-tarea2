@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pixar Animation Studios",
+        "ubicacion": "Emeryville, California",
+        "fundacion": 1986,
+        "image": "https://img.optimalcdn.com/www.postamexico.com/2024/05/46c32b4e5aeb96b6d8ddbe179b4c2f7f2fb25395/Logo_de_pixar.webp",
+        "peliculas": [
+            1,
+            2,
+            4,
+            6,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "DreamWorks Animation",
+        "ubicacion": "Glendale, California",
+        "fundacion": 1944,
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png",
+        "peliculas": [
+            3,
+            5
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Walt Disney Animation Studios",
+        "ubicacion": "Burbank, California",
+        "fundacion": 1923,
+        "image": "https://cdn.disneyanimation.com/uploads/walt-disney-animation-studios/home.jpg",
+        "peliculas": [
+            7
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Ilumination Entretainment",
+        "ubicacion": "Santa Mónica, California",
+        "fundacion": 2007,
+        "image": "https://vignette3.wikia.nocookie.net/minionpedia/images/5/50/Wiki-background/revision/latest?cb=20160827080903",
+        "peliculas": [
+            8
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Sony Pictures Animation",
+        "ubicacion": "Culver City, California",
+        "fundacion": 2002,
+        "image": "https://www.hollywoodinsider.com/wp-content/uploads/2021/06/Hollywood-Insider-Sony-Pictures-Animation-Success-Story.png",
+        "peliculas": [
+            9,
+            13
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Blue Sky Studios",
+        "ubicacion": "Greenwich, Connecticut",
+        "fundacion": 1987,
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Blue_Sky_Studios_2013_logo.svg",
+        "peliculas": [
+            10,
+            11,
+            12
+        ]
+    }
+]

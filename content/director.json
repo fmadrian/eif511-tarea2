@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "nombre": "John Lasseter",
+        "origen": "USA",
+        "nacimiento": 1957,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2rO77r4Vmo5faFbhtyxV_R1ts9TlgGc0iauVqPtiW0Q3fZW5b",
+        "peliculas": [
+            1,
+            14,
+            15
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Andrew Stanton",
+        "origen": "USA",
+        "nacimiento": 1965,
+        "image": "https://m.media-amazon.com/images/M/MV5BMmZiOTE4NDktMmZjNi00MzcwLWJjMzAtYWVlZDUwNjhiMGIwXkEyXkFqcGc@._V1_.jpg",
+        "peliculas": [
+            2,
+            3
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Genndy Tartakovsky",
+        "origen": "USA",
+        "nacimiento": 1966,
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTXItCzVseZ4FDTq_kGqfInxcZYpyB-lzHOvKIi8VyK7HnxgiNl",
+        "peliculas": [
+            9
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Lee Unkrich",
+        "origen": "USA",
+        "nacimiento": 1967,
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-ExBjNEDNF_5YyB8iebrxK3JNaEotBUeXa2sFiB-eV0cOTweq",
+        "peliculas": [
+            4,
+            6
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Mark Osborne",
+        "origen": "USA",
+        "nacimiento": 1970,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQljZ4F9exgD5n4Wr9IK1hDNdzUjePrQTVi4uV5tSaojpViDGR2",
+        "peliculas": [
+            5
+        ]
+    },
+    {
+        "id": 6,
+        "nombre": "Roger Allers",
+        "origen": "USA",
+        "nacimiento": 1949,
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqLyFfDGEwLPN99k5VF3oO2h0HTy9dPkpwley26-IJbtQpTRzR",
+        "peliculas": [
+            7
+        ]
+    },
+    {
+        "id": 7,
+        "nombre": "Pierre Coffin",
+        "origen": "Francia",
+        "nacimiento": 1967,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdv8t4rZIE0nsZfn7FvNj1mh-J2RJRozbaxZ0hOvA-jXcsYGny",
+        "peliculas": [
+            8,
+            13
+        ]
+    },
+    {
+        "id": 8,
+        "nombre": "Chris Wedge",
+        "origen": "USA",
+        "nacimiento": 1957,
+        "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSqfirRsE_SzKnV7oEX1eARRXlb0qv--gjz-ICad-9vPrmKd1tkv7co2NPabSxr1JjEktf5Fd49WlCi5ZY",
+        "peliculas": [
+            10,
+            11,
+            12
+        ]
+    }
+]

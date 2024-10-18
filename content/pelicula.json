@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "title": "Toy Story",
+        "sinopsis": "Toy Story sigue la vida secreta de los juguetes de Andy, un niño que los ama y juega con ellos, siendo su favorito Woody, un vaquero valiente. Sin embargo, todo cambia cuando Andy recibe un nuevo juguete: Buzz Lightyear, un guardián espacial que no sabe que es un juguete. Woody, temeroso de perder su lugar, siente celos y accidentalmente provoca que Buzz se pierda. Ahora, los dos deben trabajar juntos para encontrar el camino de regreso a casa antes de que Andy se mude, superando obstáculos y forjando una inesperada amistad en el proceso.",
+        "lanzamiento": 1995,
+        "estudio": 1,
+        "director": 1,
+        "duracion": "1h 21m",
+        "img": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Buscando a Nemo",
+        "sinopsis": "Buscando a Nemo sigue la aventura de Marlin, un pez payaso sobreprotector, que emprende un peligroso viaje a través del océano para encontrar a su hijo Nemo, quien ha sido capturado por un buzo y llevado a una pecera en Sídney. A lo largo del camino, Marlin recibe la ayuda de Dory, un pez con problemas de memoria a corto plazo. Juntos enfrentan tiburones, medusas y otras amenazas del océano mientras intentan rescatar a Nemo. La película es una conmovedora historia de perseverancia, valentía y el amor entre un padre y su hijo.",
+        "lanzamiento": 2003,
+        "estudio": 1,
+        "director": 2,
+        "duracion": "1h 40m",
+        "img": "https://es.web.img3.acsta.net/pictures/14/02/13/11/08/054573.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Shrek",
+        "sinopsis": "Shrek cuenta la historia de un ogro solitario que vive en un pantano y cuyo mundo cambia cuando un grupo de personajes de cuentos de hadas, desterrados por el malvado Lord Farquaad, invaden su hogar. Para recuperar su tranquilidad, Shrek acepta la misión de rescatar a la princesa Fiona, quien está prisionera en una torre custodiada por un dragón. Acompañado por un burro parlante y divertido, Shrek descubre que Fiona guarda un secreto que cambiará sus vidas para siempre. La película es una parodia divertida y conmovedora de los cuentos de hadas, explorando temas de identidad, amor y amistad.",
+        "lanzamiento": 2001,
+        "estudio": 2,
+        "director": 2,
+        "duracion": "1h 30m",
+        "img": "https://pics.filmaffinity.com/Shrek-903764423-large.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Los increibles",
+        "sinopsis": "Los Increíbles sigue la historia de la familia Parr, un grupo de superhéroes que vive en el anonimato después de que el gobierno prohibiera la actividad de los superhéroes. Bob Parr, conocido como Mr. Increíble, extraña su vida pasada de aventuras y acción, y se siente atrapado en su monótona rutina. Cuando recibe una misteriosa oferta para volver a la acción, acepta sin dudarlo, pero pronto descubre que está enredado en una peligrosa trama liderada por un villano llamado Síndrome. Junto a su esposa, Elastigirl, y sus hijos, que también tienen poderes, los Parr deben trabajar juntos como una familia para salvar el mundo y redescubrir lo que significa ser héroes. La película combina acción, comedia y drama familiar, explorando temas como el trabajo en equipo, la identidad y la importancia de aceptar quién eres.",
+        "lanzamiento": 2004,
+        "estudio": 1,
+        "director": 4,
+        "duracion": "1h 55m",
+        "img": "https://trestristescriticos.com/wp-content/uploads/2018/07/los-increibles-2.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Kung Fu Panda",
+        "sinopsis": "Kung Fu Panda sigue la historia de Po, un panda torpe y soñador que trabaja en el restaurante de fideos de su padre, pero sueña con convertirse en un maestro de kung fu. Sorprendentemente, Po es elegido como el Guerrero Dragón para cumplir una antigua profecía, lo que lo lleva a entrenar con los legendarios maestros de kung fu conocidos como los Cinco Furiosos. Aunque inicialmente es ridiculizado por su falta de habilidades, Po deberá encontrar su propio camino y su verdadera fuerza interior para enfrentarse al malvado Tai Lung, un poderoso luchador que amenaza con destruir todo lo que ama. La película es una divertida historia sobre el autodescubrimiento, la perseverancia y la aceptación de uno mismo.",
+        "lanzamiento": 2008,
+        "estudio": 2,
+        "director": 5,
+        "duracion": "1h 32m",
+        "img": "https://m.media-amazon.com/images/S/pv-target-images/cb0c3a998c4e5a5454efbda8cb13c21ecb98a9de697b2d980fd33dbeecfc9ab9.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Coco",
+        "sinopsis": "Coco sigue la historia de Miguel, un niño mexicano que sueña con convertirse en músico, a pesar de que su familia ha prohibido la música durante generaciones debido a un misterioso incidente del pasado. En su afán por seguir los pasos de su ídolo, el famoso cantante Ernesto de la Cruz, Miguel accidentalmente se adentra en la Tierra de los Muertos durante el Día de Muertos. Allí, conoce a sus antepasados y a un pícaro esqueleto llamado Héctor, con quien se embarca en una aventura para descubrir los secretos familiares y encontrar su camino de regreso al mundo de los vivos. *Coco* es una emotiva historia sobre la importancia de la familia, la memoria y el poder de seguir los sueños, todo mientras celebra la rica cultura mexicana y sus tradiciones.",
+        "lanzamiento": 2017,
+        "estudio": 1,
+        "director": 4,
+        "duracion": "1h 45m",
+        "img": "https://lumiere-a.akamaihd.net/v1/images/p_coco_19736_fd5fa537.jpeg?region=0%2C0%2C540%2C810"
+    },
+    {
+        "id": 7,
+        "title": "El rey León",
+        "sinopsis": "El Rey León cuenta la historia de Simba, un joven león que está destinado a convertirse en el rey de la Sabana Africana. Tras la trágica muerte de su padre, Mufasa, a manos de su malvado tío Scar, Simba huye de su hogar y crece en el exilio con dos amigos poco convencionales, Timón y Pumba. A medida que crece, Simba debe enfrentar su pasado, reclamar su lugar como rey y restaurar el equilibrio en el reino. La película explora temas de responsabilidad, identidad y redención, mientras presenta una impresionante banda sonora y una animación vibrante. Es una épica historia de crecimiento y la lucha entre el bien y el mal.",
+        "lanzamiento": 1994,
+        "estudio": 3,
+        "director": 6,
+        "duracion": "1h 28m",
+        "img": "https://es.web.img3.acsta.net/medias/nmedia/18/68/20/31/19785394.jpg?coixp=47&coiyp=41"
+    },
+    {
+        "id": 8,
+        "title": "Mi villano favorito",
+        "sinopsis": "Mi Villano Favorito sigue la historia de Gru, un villano con un gran corazón que planea el mayor robo de la historia: robar la luna. Sin embargo, sus planes se ven alterados cuando conoce a tres huérfanas que terminan robando su corazón. Mientras intenta cumplir su ambicioso plan y enfrentarse a su rival, el villano Vector, Gru descubre que ser un padre para las niñas puede ser la mayor aventura de todas. La película combina comedia, acción y ternura, mostrando la transformación de Gru de un villano temible a un padre amoroso y dedicado.",
+        "lanzamiento": 2010,
+        "estudio": 4,
+        "director": 7,
+        "duracion": "1h 35m",
+        "img": "https://mx.web.img3.acsta.net/pictures/18/11/29/00/31/4685554.jpg"
+    },
+    {
+        "id": 9,
+        "title": "Hotel Transylvania",
+        "sinopsis": "Hotel Transylvania sigue la historia del Conde Drácula, quien dirige un lujoso hotel exclusivo para monstruos y sus familias, proporcionando un refugio seguro donde pueden relajarse sin temor a los humanos. La vida de Drácula cambia cuando su hija Mavis cumple 118 años y organiza una fiesta para ella en el hotel. Sin embargo, la celebración toma un giro inesperado cuando un humano llamado Jonathan llega al hotel y se enamora de Mavis. Drácula debe hacer todo lo posible para proteger a su hija y mantener el secreto del hotel, mientras lidia con la presencia del inesperado huésped humano. La película mezcla humor, fantasía y una dosis de romance, destacando temas sobre la familia y la aceptación.",
+        "lanzamiento": 2012,
+        "estudio": 5,
+        "director": 3,
+        "duracion": "1h 31m",
+        "img": "https://es.web.img3.acsta.net/medias/nmedia/18/90/47/93/20254074.jpg"
+    },
+    {
+        "id": 10,
+        "title": "La era de hielo",
+        "sinopsis": "La Era de Hielo se desarrolla durante la era glacial y sigue a un grupo de animales prehistóricos mientras enfrentan el cambio climático y la extinción. La historia se centra en Manny, un mamut solitario; Sid, un perezoso torpe y parlanchín; y Diego, un tigre dientes de sable con intenciones iniciales de traicionar al grupo. Juntos, forman una inusual pero entrañable familia que se embarca en una aventura para devolver a un bebé humano a su tribu. A medida que enfrentan diversos desafíos y peligros, los personajes aprenden sobre la amistad, la lealtad y el sacrificio. La película combina comedia, acción y una emotiva historia de camaradería en un mundo cambiante.",
+        "lanzamiento": 2002,
+        "estudio": 6,
+        "director": 8,
+        "duracion": "1h 21m",
+        "img": "https://image.tmdb.org/t/p/original/j52ufQ4Y5QIESpCdgSN3MVNvZOK.jpg"
+    },
+    {
+        "id": 11,
+        "title": "Robots",
+        "sinopsis": "Robots se ambienta en un futuro donde los robots viven en una sociedad altamente mecanizada y están divididos por clases según sus modelos y funciones. La historia sigue a Rodney Copperbottom, un joven robot con grandes sueños de convertirse en un gran inventor. Al llegar a la ciudad de Robot City para trabajar con su ídolo, el famoso inventor Bigweld, Rodney descubre que Bigweld ha sido reemplazado por un malvado magnate de la industria llamado Ratchet. Junto con un grupo de amigos, Rodney lucha para restaurar la innovación y la justicia en la ciudad, enfrentándose a obstáculos y descubriendo su verdadero valor. La película combina humor, aventura y una crítica a la sociedad corporativa, mientras celebra la creatividad y la valentía.",
+        "lanzamiento": 2005,
+        "estudio": 6,
+        "director": 8,
+        "duracion": "1h 31m",
+        "img": "https://m.media-amazon.com/images/M/MV5BNDYyNjY1NjY1M15BMl5BanBnXkFtZTcwNjk5MDczMw@@._V1_.jpg"
+    },
+    {
+        "id": 12,
+        "title": "El reino secreto",
+        "sinopsis": "El Reino Secreto (también conocida como Epic) sigue la historia de Mary Katherine, una adolescente que es transportada a un mundo secreto en el bosque después de encontrar una extraña criatura herida. En este diminuto reino, descubre una batalla eterna entre las fuerzas del bien y del mal. Mary Katherine se une a un grupo de valientes luchadores liderados por la reina Tara para combatir a las fuerzas oscuras dirigidas por el malvado Mandrágora. A medida que lucha por salvar el reino y encontrar su camino de regreso a casa, Mary Katherine aprende sobre el valor, la amistad y el impacto que uno puede tener en el mundo que lo rodea. La película mezcla acción, aventura y una historia emocionante sobre crecimiento y responsabilidad.",
+        "lanzamiento": 2013,
+        "estudio": 6,
+        "director": 8,
+        "duracion": "1h 42m",
+        "img": "https://play-lh.googleusercontent.com/_lv3A1eCIVCtjtS9kaKx1c__Ghpn6btycYlb8t3UoxPVUzragNdKfvogKpF4vcYg7Zk"
+    },
+    {
+        "id": 13,
+        "title": "Emoji: la película",
+        "sinopsis": "La Película sigue la historia de Gene, un emoji en el teléfono de un adolescente que tiene la habilidad de expresar múltiples emociones, a diferencia de los demás emojis que sólo muestran una expresión. Gene se embarca en una aventura a través de las diversas aplicaciones del teléfono para convertirse en normal y encajar con los demás emojis. Con la ayuda de sus amigos, Hi-5 y Jailbreak, Gene intenta salvar el día cuando un error amenaza con destruir el teléfono y borrar todos los emojis. La película explora temas sobre la identidad, la aceptación y la amistad, todo mientras ofrece un vistazo colorido y divertido al mundo de las aplicaciones móviles.",
+        "lanzamiento": 2017,
+        "estudio": 5,
+        "director": 7,
+        "duracion": "1h 26m",
+        "img": "https://es.web.img3.acsta.net/pictures/17/05/18/10/03/496974.jpg"
+    },
+    {
+        "id": 14,
+        "title": "Cars",
+        "sinopsis": "Cars se centra en Lightning McQueen, un auto de carreras de carrera rápida y ambicioso que se encuentra accidentalmente en un pequeño pueblo llamado Radiator Springs mientras se dirige a una gran carrera. En lugar de la vida de lujo a la que está acostumbrado, Lightning se enfrenta a una comunidad de autos que viven una vida simple y tradicional. A medida que pasa el tiempo en Radiator Springs, Lightning descubre el verdadero significado de la amistad, el trabajo en equipo y la importancia de las relaciones personales. La película combina humor, aventura y una narrativa sobre el crecimiento personal y el valor de las conexiones humanas en un entorno lleno de personajes de autos animados",
+        "lanzamiento": 2006,
+        "estudio": 1,
+        "director": 1,
+        "duracion": "1h 56m",   
+        "img": "https://es.web.img2.acsta.net/pictures/14/05/28/11/24/435900.jpg"
+    },
+    {
+        "id": 15,
+        "title": "Ratatouille",
+        "sinopsis": "Ratatouille sigue la historia de Remy, una rata con un talento excepcional para la cocina, que sueña con convertirse en un gran chef. A pesar de las dificultades de ser una rata en el mundo de la alta cocina, Remy encuentra su oportunidad cuando se muda al restaurante de su ídolo, el chef Auguste Gusteau, en París. Con la ayuda de Linguini, un joven y torpe limpiador del restaurante, Remy comienza a preparar platos gourmet en secreto. A medida que el restaurante gana fama, Remy enfrenta desafíos para mantener su secreto y cumplir su sueño mientras aprende sobre la pasión, la creatividad y la importancia de seguir tus sueños, sin importar los obstáculos. La película combina comedia, aventura y una celebración del arte culinario, mostrando cómo incluso las personas (o ratas) menos esperadas pueden lograr grandes cosas.",
+        "lanzamiento": 2007,
+        "estudio": 1,
+        "director": 1,
+        "duracion": "1h 51m",
+        "img": "https://cineclubccfv.home.blog/wp-content/uploads/2020/08/rata1.jpg?w=564"
+    }
+]
