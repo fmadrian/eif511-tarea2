@@ -24,8 +24,8 @@
                 <p><strong>Estudio: </strong><router-link :to="`/estudio/${pelicula.estudio}`">{{ estudioPelicula.nombre
                         }}</router-link></p>
             </div>
+            <Utteranc />
         </div>
-        <Utteranc />
         <FooterView />
     </div>
 </template>

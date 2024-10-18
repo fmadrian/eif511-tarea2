@@ -27,8 +27,8 @@
                     <MovieCard v-for="(pelicula, index) in peliculas" :key=index :pelicula=pelicula />
                 </div>
             </div>
+            <Utteranc />
         </div>
-        <Utteranc />
         <FooterView />
     </div>
 </template>
