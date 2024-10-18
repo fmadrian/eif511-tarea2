@@ -2,7 +2,7 @@
     <div class="container">
         <hr>
         <p class="text-center">
-            Copyright (c) 2024 - Adrian Fallas & Maria Quesada
+            Tarea 3 - Adrián Fallas Marín
         </p>
     </div>
 </template>
