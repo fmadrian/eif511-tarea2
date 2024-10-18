@@ -28,11 +28,14 @@
                 </div>
             </div>
         </div>
+        <Utteranc />
         <FooterView />
     </div>
 </template>
 <script setup>
-const route = useRoute()
+
+import Utteranc from '~/components/global/utteranc.vue';
+const route = useRoute();
 
 const director = (await queryContent('/director').only('body').findOne()).body
     .find(director => director.id == route.params.id)

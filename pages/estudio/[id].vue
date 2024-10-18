@@ -28,13 +28,15 @@
                 </div>
             </div>
         </div>
+        <Utteranc />
         <FooterView />
     </div>
 </template>
 <script setup>
+import Utteranc from '~/components/global/utteranc.vue';
 import MovieCard from '~/components/MovieCard.vue';
 
-const route = useRoute()
+const route = useRoute();
 const estudio = (await queryContent('/estudio').only('body').findOne())
     .body.find(estudio => estudio.id == route.params.id)
 
