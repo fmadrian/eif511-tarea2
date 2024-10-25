@@ -1,15 +1,13 @@
 # ArquitecturaProyecto1UNA
  
-Proyecto 1
+Tarea 3
 
 EIF511 - Arquitectura de Información
 
 ## Integrantes:
 
-Fernanda Quesada Pineda
-
 Adrián Fallas Marín
 
 ## Sitio web
 
-El enlace al proyecto es: [https://una-eif511-proyecto1-peliculasanimada.netlify.app](https://una-eif511-proyecto1-peliculasanimada.netlify.app)
+El enlace al proyecto es: [https://adrianfm-una-eif511-tarea3.netlify.app](https://adrianfm-una-eif511-tarea3.netlify.app)
