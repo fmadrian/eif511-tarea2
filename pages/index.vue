@@ -4,7 +4,7 @@
             <HeaderView />
 
             <div class="d-flex flex-column row-gap-2">
-                <h1>Tarea 3</h1>
+                <h1>Tarea 2</h1>
                 <h3>Arquitectura de información</h3>
                 <div class="d-flex flex-column">
                     <h5>Adrián Fallas Marín</h5>

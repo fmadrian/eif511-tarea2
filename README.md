@@ -1,6 +1,6 @@
-# ArquitecturaProyecto1UNA
+# eif511-tarea2
  
-Tarea 3
+Tarea 2
 
 EIF511 - Arquitectura de Información
 
@@ -10,4 +10,4 @@ Adrián Fallas Marín
 
 ## Sitio web
 
-El enlace al proyecto es: [https://adrianfm-una-eif511-tarea3.netlify.app](https://adrianfm-una-eif511-tarea3.netlify.app)
+El enlace a la tarea es: [https://adrianfm-una-eif511-tarea2.netlify.app](https://adrianfm-una-eif511-tarea2.netlify.app)

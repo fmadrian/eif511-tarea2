@@ -11,7 +11,7 @@ export default defineNuxtConfig({
       // Title tag template.
       titleTemplate: `%s %separator %siteName %separator %class`,
       templateParams: {
-        siteName: 'Tarea 3',
+        siteName: 'Tarea 2',
         class: 'Arquitectura de Información',
         separator: '|',
       },
