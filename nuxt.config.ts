@@ -4,13 +4,14 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ["@nuxt/content", "@nuxt/image"],
   components: true,
+
   app: {
     // Tags in head.
     head: {
       // Title tag template.
       titleTemplate: `%s %separator %siteName %separator %class`,
       templateParams: {
-        siteName: 'Proyecto 1',
+        siteName: 'Tarea 3',
         class: 'Arquitectura de Información',
         separator: '|',
       },

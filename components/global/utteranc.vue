@@ -1,25 +1,20 @@
 <template>
     <span></span>
 </template>
-<script>
+<script setup>
 
-export default {
-    layout: "default",
-
-    head: {
-        script: [
-            {
-                src: 'https://utteranc.es/client.js',
-                repo: "fmadrian/eif511-tarea3",
-                'issue-term': "pathname",
-                label: "comments",
-                theme: "github-light",
-                crossorigin: "anonymous",
-                body: true,
-                async: true
-            }
-        ]
-    },
-
-};
+useServerHead({
+    script: [
+        {
+            src: 'https://utteranc.es/client.js',
+            repo: "fmadrian/eif511-tarea3",
+            'issue-term': "pathname",
+            label: "comments",
+            theme: "github-light",
+            crossorigin: "anonymous",
+            body: true,
+            async: true
+        }
+    ]
+});
 </script>
